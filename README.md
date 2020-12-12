@@ -24,9 +24,6 @@ Demarrage du bot :
 node index.js
 ```
 
----
-
-
 ## ✍️ | Auteur du bot <a name = "authors"></a>
 
 - [@LaquiosDev](https://github.com/LaquiosDev)
