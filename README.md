@@ -1,9 +1,5 @@
 # Bot-Discord-Economie-Template
 
-<p align="center"> 🤖 Bot discord OpenSource pour gerer l'economie d'un serveur discord !
-    <br> 
-</p>
-
 ## 📝 | Sommaire
 
 - [À propos](#about)
@@ -14,7 +10,7 @@
 
 ## 🧐 | À propos <a name = "about"></a>
 
-Bot discord OpenSource pour gerer l'economie d'un serveur discord !
+🤖 Bot discord OpenSource pour gerer l'economie d'un serveur discord !
 
 
 ## 💭 | Fonctionnement <a name = "working"></a>
