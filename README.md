@@ -1,1 +1,1 @@
-# Bot-Discord-Template
+# Bot-Discord-Economie-Template
