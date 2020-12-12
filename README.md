@@ -21,7 +21,7 @@ unzip le dossier node_modules.zip en dossier normal
 3. Connecter le bot :
 
 ```
-node index.js
+node src/index.js
 ```
 
 ## 👨 | Auteur du bot :
