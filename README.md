@@ -26,6 +26,6 @@ node index.js
 
 ## ✍️ | Auteur du bot :
 
-- @LaquiosDev
+- LaquiosDev
 
 
