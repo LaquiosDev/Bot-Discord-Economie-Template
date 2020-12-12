@@ -6,8 +6,6 @@ Important ! Le bot n'est pas heberger sur une machine ! Vous devrez l'heberger s
 
 ### Installation
 
-Installation du bot
-
 1. Cloner le github
 
 ```
