@@ -18,7 +18,7 @@ git clone https://github.com/Dev-Mamba/Bot-Discord-Economie-Template.git
 unzip le fichier en .rar 
 ```
 
-Demarrage du bot :
+3. Connecter le bot :
 
 ```
 node index.js
