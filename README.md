@@ -24,7 +24,7 @@ unzip le fichier en .rar
 node index.js
 ```
 
-## ✍️ | Auteur du bot :
+## 👨 | Auteur du bot :
 
 - LaquiosDev
 
