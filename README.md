@@ -1,4 +1,4 @@
-## 🟢 | Démarrage <a name = "getting_started"></a>
+## Demarrer le  bot :
 
 Veuillez suivre le tuto si dessous pour cloner le projet github !
 
