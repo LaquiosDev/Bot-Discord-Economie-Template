@@ -1,4 +1,4 @@
-## Demarrer le  bot :
+## 🤖 Demarrer le  bot :
 
 Veuillez suivre le tuto si dessous pour cloner le projet github !
 
