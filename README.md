@@ -1,5 +1,7 @@
 ## 🤖 Demarrer le  bot :
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7591c80f239844d4a748e92ec549be5c)](https://app.codacy.com/gh/LaquiosDev/Bot-Discord-Economie-Template?utm_source=github.com&utm_medium=referral&utm_content=LaquiosDev/Bot-Discord-Economie-Template&utm_campaign=Badge_Grade_Settings)
+
 Veuillez suivre le tuto si dessous pour cloner le projet github !
 
 Important ! Le bot n'est pas heberger sur une machine ! Vous devrez l'heberger sur un hebergeur node js !
