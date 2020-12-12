@@ -9,13 +9,13 @@ Important ! Le bot n'est pas heberger sur une machine ! Vous devrez l'heberger s
 1. Cloner le github
 
 ```
-git clone https://github.com/LaquiosDev/Bot-Discord-Economie-Template.git
+Telecharger en .zip le projet grace au bouton vert sur ordinateur.
 ```
 
 2. Installation des modules
 
 ```
-unzip le fichier en .rar 
+unzip le dossier node_modules.zip en dossier normal
 ```
 
 3. Connecter le bot :
