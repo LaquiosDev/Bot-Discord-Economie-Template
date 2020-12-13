@@ -15,7 +15,7 @@ Telecharger en .zip le projet grace au bouton vert sur ordinateur.
 2. Installation des modules
 
 ```
-unzip le dossier node_modules.zip en dossier normal
+Allez dans votre terminal (vsc ou autre) et faire npm install
 ```
 
 3. Connecter le bot :
@@ -23,7 +23,7 @@ unzip le dossier node_modules.zip en dossier normal
 ```
 node src/index.js
 ```
-
+# Voilà vous avez votre bot ! 
 ## 👨 | Auteur du bot :
 
 - LaquiosDev
