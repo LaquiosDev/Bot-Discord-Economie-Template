@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-const fs =require(`fs`);
+const fs = require(`fs`);
 
 client.login("Token de votre bot");
 
@@ -11,7 +11,7 @@ fs.readdir("./Commandes/", (error, f) => {
     if(error) console.log(error);
 
     let commandes = f.filter(f => f.split(".").pop() === "js");
-    if(commandes.length <= 0) return console.log("Aucune commandes détécté");
+    if(commandes.length <= 0) return console.log("Aucune commande détectéees");
 
     commandes.forEach((f) => {
 
@@ -20,7 +20,7 @@ fs.readdir("./Commandes/", (error, f) => {
 
         client.commands.set(commande.help.name, commande);
     });
-}); //redirections des fichiers ou se trouveront les commandes du bots
+}); // chargée les commandes
 
 fs.readdir("./Events/", (error, f) => {
     if(error) console.log(error);
@@ -32,4 +32,4 @@ fs.readdir("./Events/", (error, f) => {
 
     client.on(event, events.bind(null, client));
     });
-}); //redirections des events du bots
+}); // chargée les events
