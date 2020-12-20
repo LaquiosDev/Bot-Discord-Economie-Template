@@ -2,7 +2,7 @@
 
 Veuillez suivre le tuto si dessous pour cloner le projet github !
 
-Important ! Le bot n'est pas heberger sur une machine ! Vous devrez l'heberger sur un hebergeur node js !
+Important ! Le bot n'est pas heberger sur une machine ! Vous devrez l'heberger sur un hebergeur nodejs !
 
 ### Installation
 
