@@ -22,7 +22,7 @@ module.exports.run = async (client, message, args, config) => {
           return message.channel.send(`Impossible d'envoyer un montant negatif !`);
         else
           return message.channel.send(`Vous ne pouvez pas envoyer 0$, réésayez en utilisant une somme positive.`);
-
+        } 
       
     if (member < transaction.amount) {
         return message.channel.send("Tu n'as pas suffisamment d'argent pour effectuer la transaction... Tapes ``spe.work`` pour en obtenir plus !")
